@@ -12,5 +12,6 @@ public class App
         // Anton K comment
         // test
         // test2
+        // test 3
     }
 }
