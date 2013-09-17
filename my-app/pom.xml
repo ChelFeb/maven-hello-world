@@ -16,9 +16,11 @@
       <scope>test</scope>
     </dependency>
 
-    <!--<dependency>-->
-
-    <!--</dependency>-->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-webmvc</artifactId>
+        <version>3.2.4.RELEASE</version>
+    </dependency>
 
   </dependencies>
 
